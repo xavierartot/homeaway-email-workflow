@@ -1,8 +1,21 @@
 // Main scss styles
-@import 'config';
-@import 'global';
-@import 'layout';
-@import 'type';
-@import 'buttons';
-@import 'other';
-@import 'responsive';
+@import 'variables';      //variables
+@import 'reset-global';   //reset
+@import 'layout';         //body and container
+@import 'type';           //typography
+@import 'buttons';        //buttons
+@import 'utilities';      //utilities
+@import 'responsive';     //responsives
+
+/*<body>*/
+  /*<table class="body">*/
+    /*<tr>*/
+      /*<td></td>*/
+      /*<td class="container">*/
+        /*<div class="content">{{ body }}</div>*/
+      /*</td>*/
+      /*<td></td>*/
+    /*</tr>*/
+  /*</table>*/
+
+/*</body>*/
