@@ -1,5 +1,7 @@
 # Grunt Email Design Workflow
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xavierartot/homeaway-email-workflow.svg)](https://greenkeeper.io/)
+
 Designing and testing emails is a pain. HTML tables, inline CSS, various devices and clients to test, and varying support for the latest web standards.
 
 This grunt task helps simplify things at the design stage.
